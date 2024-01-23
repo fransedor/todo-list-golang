@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/fransedor/todo-list-golang/database"
-	"github.com/fransedor/todo-list-golang/handlers"
+	handlers "github.com/fransedor/todo-list-golang/handlers/users"
 	"github.com/joho/godotenv"
 )
 
